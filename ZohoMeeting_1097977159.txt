@@ -1,0 +1,39 @@
+Nick Zundel : Hi!
+Robert : Hello
+janaki.shantharam@zohocorp.com : https://community.zoho.com/developer/
+Systems : Submitted
+Kristine Robinson : Submitted
+janaki.shantharam@zohocorp.com : Those of you who have submitted, we will send you the invitation to join the Developers Zoho User Group cliq channel shortly.
+Systems : Will the recoring be in the cliq group?
+Charles Samuel D Monte : Yes, Systems. Once recordings go live, we notify members of the Cliq group. 
+For recordings of past sessions, you'll have to visit our website : https://community.zoho.com/developer/videos/
+Innocent Mbulu : Please how do I join the Cliq group?
+janaki.shantharam@zohocorp.com : Fill out the form by clicking 'Join Now' on our page - https://community.zoho.com/developer/
+janaki.shantharam@zohocorp.com : Looks like you already filled the form. Can you share your mail id with me at janaki.shantharam@zohocorp.com. I will confirm the details shortly with you
+janaki.shantharam@zohocorp.com : Just confirmed with my colleague, Divya. You will receive the invite to join the cliq channel shortly.
+Innocent Mbulu : Ok, I am doing that right now
+Esteban Rojas : Hi team, can you share the record sesion at the finish of them please?
+Innocent Mbulu : I am in now, thank you Divya and Janaki
+janaki.shantharam@zohocorp.com : Once again welcome to Zoho Community. Go ahead and introduce yourself to the community. Happy networking and learning.
+janaki.shantharam@zohocorp.com : Hello Esteban, we will share the recording by Monday for sure. Once it is ready, we will update to this page - https://community.zoho.com/developer/101-series/extensions/
+Markus : How to access dev portal?
+Sergio Bravo Montoya : Where can I find the documentation for creating widgets in Zoho Books?
+Muhilan P A : 1. Can we use widgets in Create/Edit, Details Page on all the modules of Zoho Books?
+2. How about Reports ? Sometimes we may have to do consolidation reporting of multiple Organisations for the parent companies by applying exchange rates?
+Nanditha Somasundaram Somasundaram : Hello Markus, ou can create a Zoho One trial account and access the Zoho Developer platform using https://www.zoho.com/developer/ .
+Lavanya K : Hello Sergio
+Please check this document https://www.zoho.com/books/developer/widgets/
+Sergio Bravo Montoya : Thank you
+Nanditha Somasundaram Somasundaram : Hello Muhilan, please find the supported locations where you can embed widgets in the below link.
+Nanditha Somasundaram Somasundaram : https://www.zoho.com/books/developer/widgets/key-configuration.html
+Markus : Have a Zoho One account, just didn't know the link. Works now
+Bala Chandar Arumugam : Hello Muhilan. Regarding second one, Can you elaborate more on your query please?
+Markus : Are they some real world widget samples to download?
+Bala Chandar Arumugam : Hello Markus. You can find the sample widget in the below URL.
+https://www.zoho.com/books/developer/widgets/sample-widget.html
+Kristine Robinson : Will the Q&A portion available be in the posted recording as well?
+Nanditha Somasundaram Somasundaram : tech@zohomarketplace.com
+janaki.shantharam@zohocorp.com : https://community.zoho.com/developer/
+Mario Martinez : Thank you for the session!
+Robert : Thank you
+

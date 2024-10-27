@@ -1,0 +1,232 @@
+	UAT - User list
+
+URL : https://uatloscsel.chola.murugappa.com/portal/login
+
+Branch : Vellore 
+
+DSA/DST > grv.solutions@yahoo.com
+COE > saravanakumarp@chola1.murugappa.com
+FI > support@validata.in 
+RCU > v.jerry.joel@gmail.com / leoassociatechola@gmail.com
+BCOM > ezhilmaranm@chola.murugappa.com
+ACOM > ezhilmaranm@chola.murugappa.com
+RCOM > iyyanark@chola.murugappa.com
+ZCOM > sanjayhd@chola.murugappa.com
+BH > balraj@chola.murugappa.com
+CH > balraj@chola.murugappa.com
+NCM > pradeepsivasankaran@chola.murugappa.com 	
+NBM > sriramkannan@chola.murugappa.com
+ZBM > calvinr@chola.murugappa.com
+RBM > sureshgk@chola.murugappa.com
+Post Sanction > grv.solutions@yahoo.com
+BOPS > saravanakumarp@chola1.murugappa.com
+CPU > saravanakumarp@chola1.murugappa.com
+
+Sales Hierarchy:
+
+AC & RM > rameshbalu@chola.murugappa.com
+
+NBM > sriramk@chola.murugappa.com
+
+BH > balrajmenon@chola.murugappa.com
+
+ZBM > calvin@chola.murugappa.com
+
+RBM > sureshgnaidu@chola.murugappa.com
+
+ABM > ramun@chola.murugappa.com
+
+BBM > dhanancheziyankchola.murugappa.com
+
+
+
+PAN : EFXPK2701A (Female)
+Name : : : MS MANPREET KAUR
+DOB : : 09-07-1978
+Cibil Score : 692
+
+PAN : BDTPK1848M(Male)
+Name : : KAIMAL SREERAG CHANDRASEKHARA
+DOB : :  29-04-1984
+Cibil Score : 755
+
+PAN : ALIPK9319B(Male)
+Name : : MR KAMATH RAJESH MOHAN
+DOB : :  26-08-1972
+Cibil Score : 744
+
+
+PAN : AADFG7516N ( Sole Prop / Partnership / LLP )
+Business Name : GOODWILL ASSOCIATES
+DOI : 01/07/2017
+
+PAN : AABCH1743F ( Private/Public )
+Business Name : HIMALAYA OPTICAL CENTRE PRIVATE LIMITED
+DOI : 01/07/2017
+
+Name    DOB    PAN    Cibil Score
+Nisha Singh    09-05-1981    BLMPS3015D    732
+
+
+
+Test Data : 
+
+Business Loan :
+
+LLPIN > AAB-2940
+CIN > U74120MH2015PTC265316
+UDYAM : UDYAM-MP-23-0007772
+GST Registration certificate > 27AAACR5055K1Z7
+FSSAI > 10013022002245
+FDA License > 75202; GJ
+Shop Establisment > 2017000452; DL
+IEC > 03880664152
+IT Returns > 149632760130721
+UDHYOG Aadhar > GJ20A0007692
+Landline NO > 022-21730600, Mumbai / 044-23812727, Chennai 
+Electricity Bill > 101437269, BSES Delhi
+Telephone Bill > 022-21730600, Mumbai 
+POST-PAID MOBILE BILL > any mobile number
+PIPED GAS BILL > 21110831400001496; HP
+PROPERTY & MUNICIPAL TAX RECEIPT > MAHARASHTRA, GREATER MUMBAI, NX1007310370001 
+
+
+
+ANY PDF DOCUMENT CAN UPLOAD FOR TESTING : 
+PARTNERSHIP DOCUMENT > Any pdf document
+SHAREHOLDING DOCUMENT > Any pdf document
+MOA DOCUMENT > Any pdf document
+AOA DOCUMENT > Any pdf document
+PARTNERSHIP DOCUMENT > Any pdf document
+ELECTRICITY BILL > Any pdf document
+PROPERTY TAX RECEIPT > Any pdf document
+REGISTERED SALES DEED > Any pdf document
+
+Personal Loan : 
+
+Voter ID : TBW1730365
+Passport with Exp date : DOB : 17/08/1987
+File No : 	
+
+Passport No : S3733862
+Date of Issue : 14/05/2018
+Passport Expiry Date : Any date more than date of Issue
+Passport Issuing Country : India
+DRIVING LICENSE	> MH01 20090091406; 12-06-1987 / TN0720130011132
+ELECTRICITY BILL > Any PDF Document
+WATER BILL > Any PDF Document
+PROPERTY TAX RECEIPT > Any PDF Document
+REGISTERED SALES DEED > Any PDF Document
+ELECTRICITY BILL > 101437269, BSES Delhi
+TELEPHONE BILL > 022-	Mumbai 
+POST-PAID MOBILE BILL > any mobile number
+PIPED GAS BILL > 21110831400001496; HP
+WATER BILL > NA
+PROPERTY & MUNICIPAL TAX RECEIPT > MAHARASHTRA, GREATER MUMBAI, NX1007310370001
+FAMILY PENSION PAYMENT ORDER > NA
+LETTER OF ALLOTMENT OF ACCOMADATION FROM EMPLOYER > NA
+DOCTOR > Any PDF Document
+CMA > Any PDF Document
+CS > Any PDF Document
+CA > Any PDF Document
+ENGINEER > Any PDF Document	
+CA Membership > 140723
+ICSI Membership > A4567
+ICWAI Membership authentication > 14530
+MCI Membership authentication > Reg No : 2	 ; Year : 2010 ; Medical Council : Maharashtra Medical Council /89953- 2010 - Tamilnadu Medical Council
+
+
+
+
+
+GST : 
+
+PAN: AAECS0561R ----- SKY INDUSTRIES LIMITED
+
+1. {
+"gstin":"27AAECS0561R1ZV",
+"username":"testuser3",
+"password":"Testpassword@3", 3001785
+"extendedPeriod": false,
+"consent": "Y",
+"consolidate": false/true,
+}
+
+2. {
+"gstin":"07AAECS0561R1ZX",
+"username":"testuser4",
+"password":"Testpassword@4",
+"extendedPeriod": false,
+"consent": "Y",
+"consolidate": false/true,
+}
+
+
+PAN: AAATW4183C ----- WILL OFFSHORE INDUSTRIAL SAFETY SERVICES ORGANISATION
+3. {
+"gstin":"27AAATW4183C2ZG",
+"username":"testuser1",
+"password":"Testpassword@1",
+"extendedPeriod": false,
+"consent": "Y"
+
+}
+	
+UDYAM : 
+
+UDYAM-MP-23-0007772
+UDYAM-WB-12-0012722
+UDYAM-UP-50-0056456
+UDYAM-MH-33-0105134
+UDYAM-MH-23-0034488
+UDYAM-MH-19-0028831
+UDYAM-MH-15-0091853
+UDYAM-KL-12-0019801
+UDYAM-HR-05-0035561
+UDYAM-BR-10-0012706
+
+
+
+
+
+
+PAN	        REJECTDROPREASON
+ALJPR1613C	Fi Report Is Negative
+JRRPS5028F	applicant is having latest bouncing in Fusion loan
+AIOPK0353Q	Cibil Derog Office Address Change observed in Physical PD
+CZYPK6539D	AL of 11 -Lakh Bounce in Last 6 Months
+BBIPA2181G	avoid this case, due to recently Settled / W.Off in business loan.URC details wrongly captured
+AFMPJ6334D	High obligations, not ok
+BZZPD5069B	due to wrong entry
+ADTPJ0207E	ABB is 17301k no additional banking found.
+AQHPP1199A	wrong details
+BVPPK8548E	LOGIN IN TERM LOAN
+
+
+PRAS0608
+
+
+Role	Email ID
+ACOM	udayakumarsadhasivam@chola.murugappa.com
+CH	balrajmenon@chola.murugappa.com
+RCOM	ayyanar@chola.murugappa.com
+ZCOM	vijaykumar@chola.murugappa.com
+NCM	sivaraman@chola.murugappa.com
+COE	asathishkumar@chola.murugappa.com
+BOPS	asathishkumar@chola.murugappa.com	
+CPU	aasathishkumar@chola.murugappa.com
+BCOM	marunkumar@chola.murugappa.com
+DST	dhushyanthp@chola.murugappa.com
+DST	thamizharasanm@chola.murugappa.com
+RBM	sureshgnaidu@chola.murugappa.com
+NBM	sriramk@chola.murugappa.com
+
+ 
+
+
+In Addition, Please help us to test the below mentioned parameters (Credit deviation) in LOS system
+
+Sherlock Result, No of credits per month, Foir Difference, Banking turnover foir percentage, Annual banking credits, Banking turnover foir ABB, Current year turnover amount, trend of turnover, net profit, debt service coverage ratio, debit ratio, current ratio, dip PBDIT CY PBDIT PY, cash profit trend, ITR gap months, net working capital gap days, debtor collection days, creditors collection days, stock days.
+
+
+
